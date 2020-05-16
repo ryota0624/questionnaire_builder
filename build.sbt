@@ -1,4 +1,4 @@
-name := "form_builder_app"
+name := "questionnaire_builder_app"
 
 version := "0.1"
 

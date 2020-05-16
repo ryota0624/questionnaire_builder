@@ -1,4 +1,4 @@
-package form_builder
+package questionnaire_builder
 
 import java.time.format.DateTimeFormatter
 
